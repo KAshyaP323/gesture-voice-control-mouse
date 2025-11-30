@@ -60,16 +60,6 @@ Supports:
 - Start/Stop mode buttons  
 - Voice command feedback  
 
----
-
-## 📂 Repository Layout:
--├── test.py # Main GUI application
--├── train.py # Model training script
--├── requirements.txt # Recommended Python dependencies
--├── README.md # This file
--└── model/ # Saved model(s)
-
-
 
 ---
 
