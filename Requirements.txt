@@ -1,0 +1,9 @@
+python==3.12
+opencv-python==4.11.0.86
+mediapipe==0.10.21
+pyautogui==0.9.54
+numpy==1.26.4
+tensorflow==2.19.1
+librosa==0.11.0
+sounddevice==0.5.3
+PyQt5==5.15.11
