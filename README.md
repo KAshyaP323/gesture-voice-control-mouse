@@ -12,7 +12,7 @@ This project provides a desktop application that allows controlling a computer u
 - **Voice commands** (MFCC features + CNN model)
 
 The GUI front-end and runtime are implemented in **test.py**.  
-The voice model is trained using **train.py**.
+Use earphones/headphones for better accuracy in voice control.
 
 ---
 
